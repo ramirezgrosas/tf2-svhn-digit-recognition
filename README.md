@@ -1,0 +1,1 @@
+I'm creating a neural network that classifies real-world images digits. The idea is use concepts like building, training, testing, validating and saving the Tensorflow Classifier Model.
